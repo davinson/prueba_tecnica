@@ -6,4 +6,4 @@ Instrucciones :
 3.- ejecute el comando npm run dev o npm start para inciar el servidor 
 4.- adjunte las collecciones en postman de las queries
 
-Nota: no es necesario crear tablas el sistema esta configurado en sequelize y las genera de amnera automatica solo necesita tener creada la base de datos.
+Nota: no es necesario crear tablas el sistema esta configurado en sequelize y las genera de manera automatica solo necesita tener creada la base de datos.
